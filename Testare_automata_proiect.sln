@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testare_automata_proiect", "Testare_automata_proiect\Testare_automata_proiect.csproj", "{DC484A0A-D1BE-4940-8350-CAC645E3BA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC484A0A-D1BE-4940-8350-CAC645E3BA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC484A0A-D1BE-4940-8350-CAC645E3BA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC484A0A-D1BE-4940-8350-CAC645E3BA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC484A0A-D1BE-4940-8350-CAC645E3BA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5DC7DC-2281-47E0-9B31-A6490D18F5FE}
+	EndGlobalSection
+EndGlobal
